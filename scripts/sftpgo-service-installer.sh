@@ -1,4 +1,4 @@
-#!/usr/bin/env -s pkgx bash^5 -eo pipefail
+#!/usr/bin/env -S pkgx bash^5 -eo pipefail
 
 function main {
   printf '%s\n' \
