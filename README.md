@@ -3,3 +3,7 @@
 ## `mash mash-installers/sftpgo-service-installer`
 
 Install sftpgo as a service
+
+### Usage
+
+mash mash-installers/sftpgo-service-installer
