@@ -6,4 +6,7 @@ Install sftpgo as a service
 
 ### Usage
 
+```sh
 mash mash-installers/sftpgo-service-installer
+````:w
+
