@@ -21,8 +21,8 @@ def check_init
 end
 
 def check_assets
-   parent_path=File.expand_path(File.dirname(File.dirname(FILE)()
-   Dir.entries("#{parent_path}/assets")
+   parent_path=File.expand_path(File.dirname(File.dirname(__FILE__)))
+   p Dir.entries("#{parent_path}/assets")
 end
 
 def main
